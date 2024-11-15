@@ -8,6 +8,6 @@
   <p>
     Ниже идут мои метрики - буду отслеживать показатели, самому интересно. А так в целом, всё 
   </p>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gleb001)](https://github.com/anuraghazra/github-readme-stats)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gleb001&langs_count=8)
 </section>
 
