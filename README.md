@@ -26,7 +26,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WebChat-team&repo=webchat.com)](https://github.com/WebChat-team/authorization)
 
 
-  <h3>Backend-проекты</h3>
+  <h3>Backend разделы проекта</h3>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WebChat-team&repo=proxy_server)](https://github.com/WebChat-team/authorization)
 
