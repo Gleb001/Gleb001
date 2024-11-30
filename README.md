@@ -21,18 +21,18 @@
 
   <h3>Frontend разделы проекта</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WebChat-team&repo=id.webchat.com)](https://github.com/WebChat-team/authorization)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WebChat-team&repo=id.webchat.com)](https://github.com/WebChat-team/id.webchat.com)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WebChat-team&repo=webchat.com)](https://github.com/WebChat-team/authorization)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WebChat-team&repo=webchat.com)](https://github.com/WebChat-team/webchat.com)
 
 
   <h3>Backend разделы проекта</h3>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WebChat-team&repo=proxy_server)](https://github.com/WebChat-team/authorization)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WebChat-team&repo=proxy_server)](https://github.com/WebChat-team/proxy_server)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WebChat-team&repo=token_server)](https://github.com/WebChat-team/authorization)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WebChat-team&repo=token_server)](https://github.com/WebChat-team/token_server)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WebChat-team&repo=user_server)](https://github.com/WebChat-team/authorization)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WebChat-team&repo=user_server)](https://github.com/WebChat-team/user_server)
 
 </section>
 
