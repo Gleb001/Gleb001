@@ -10,7 +10,7 @@
   </p>
 
   <p>Frontend-проекты</p>
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WebChat-team&repo=authorization)](https://github.com/WebChat-team/authorization)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=WebChat-team&repo=authorization)](https://github.com/WebChat-team/authorization)]
   <p>
     А так, в целом, всё 
   </p>
