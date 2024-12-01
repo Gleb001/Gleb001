@@ -83,6 +83,24 @@
 
 </section>
 
+<section>
+
+<h2>Afterword</h2>
+
+  <p>
+    Below you can see some of my best projects (pinned)
+  </p>
+
+  <p>
+    The contacts to contact me are listed under my avatar
+  </p>
+
+  <p>
+    And so, in general, everything!
+    Happy programming ;)
+  </p>
+
+</section>
 
 <style>
 
@@ -141,10 +159,6 @@
   text-align: center;
 }
 
-</style>
-
-<style>
-
   /* bookshelf */
 
   .bookshelf {
@@ -198,22 +212,3 @@
   }
 
 </style>
-
-<section>
-
-<h2>Afterword</h2>
-
-  <p>
-    Below you can see some of my best projects (pinned)
-  </p>
-
-  <p>
-    The contacts to contact me are listed under my avatar
-  </p>
-
-  <p>
-    And so, in general, everything!
-    Happy programming ;)
-  </p>
-
-</section>
