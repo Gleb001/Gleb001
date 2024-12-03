@@ -161,6 +161,7 @@
   <img
     src="https://leetcard.jacoblin.cool/Gleb001?theme=dark&ext=heatmap" alt="leetcode"
   />
+  </br>
 
   <p>Также есть книги, которые бы хотелось осилить в обозримом будущем:</p>
   <div style="display: flex;  flex-direction: column;  gap: 10px;  width: 100%;  padding: 0;  margin: 0;">

@@ -8,6 +8,7 @@
   />
 
   <p>Также есть книги, которые бы хотелось осилить в обозримом будущем:</p>
+  </br>
   <div class="bookshelf">
     <div class="book">
       <div class="about_book">
