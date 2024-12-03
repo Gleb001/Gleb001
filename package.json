@@ -1,0 +1,29 @@
+{
+  "name": "gleb001",
+  "version": "1.0.0",
+  "description": "",
+  "main": "README.md",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "write:docs": "nodemon readme_constructor.js --watch docs -e md,js",
+    "build": "node readme_constructor.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gleb001/Gleb001.git"
+  },
+  "keywords": [
+    "Gleb001"
+  ],
+  "author": "Gleb001",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gleb001/Gleb001/issues"
+  },
+  "homepage": "https://github.com/Gleb001/Gleb001#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}
