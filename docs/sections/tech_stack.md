@@ -6,7 +6,7 @@
 
   <div>
     <a
-      style="padding: 5px; text-decoration: none; cursor: pointer;"
+      class="techology"
       href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript"
     >
       <img
@@ -17,7 +17,7 @@
       />
     </a>
     <a
-      style="padding: 5px; text-decoration: none; cursor: pointer;"
+      class="techology"
       href="https://www.typescriptlang.org/"
     >
       <img
@@ -28,7 +28,7 @@
       />
     </a>
     <a
-      style="padding: 5px; text-decoration: none; cursor: pointer;"
+      class="techology"
       href="https://react.dev/"
     >
       <img
@@ -38,8 +38,19 @@
         src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"
       />
     </a>
+        <a
+      class="techology"
+      href="https://nodejs.org/en"
+    >
+      <img
+        width="50"
+        src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"
+        alt="Node.js"
+        title="Node.js"
+      />
+    </a>
     <a
-      style="padding: 5px; text-decoration: none; cursor: pointer;"
+      class="techology"
       href="https://redux.js.org/"
     >
       <img
@@ -50,7 +61,7 @@
       />
     </a>
     <a
-      style="padding: 5px; text-decoration: none; cursor: pointer;"
+      class="techology"
       href="https://nextjs.org/"
     >
       <img
@@ -61,7 +72,7 @@
       />
     </a>
     <a
-      style="padding: 5px; text-decoration: none; cursor: pointer;"
+      class="techology"
       href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"
     >
       <img
@@ -72,7 +83,7 @@
       />
     </a>
     <a
-      style="padding: 5px; text-decoration: none; cursor: pointer;"
+      class="techology"
       href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics"
     >
       <img
@@ -82,9 +93,8 @@
         src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" 
       />
     </a>
-    <!-- в обозримом будущем - как только подучусь -->
-    <!-- <a
-      style="padding: 5px; text-decoration: none; cursor: pointer;"
+    <a
+      class="techology"
       href="https://jestjs.io/"
     >
       <img
@@ -95,7 +105,7 @@
       />
     </a>
     <a
-      style="padding: 5px; text-decoration: none; cursor: pointer;"
+      class="techology"
       href="https://webpack.js.org/"
     >
       <img
@@ -105,17 +115,16 @@
         src="https://user-images.githubusercontent.com/25181517/187955008-981340e6-b4cc-441b-80cf-7a5e94d29e7e.png"
       />
     </a>
-    <a
-      style="padding: 5px; text-decoration: none; cursor: pointer;"
-      href="https://nodejs.org/en"
-    >
-      <img
-        width="50"
-        src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png"
-        alt="Node.js"
-        title="Node.js"
-      />
-    </a> -->
   </div>
 
 </section>
+
+<style>
+
+  .techology {
+    padding: 5px;
+    text-decoration: none; 
+    cursor: pointer;
+  }
+
+</style>
