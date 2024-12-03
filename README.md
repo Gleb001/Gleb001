@@ -13,7 +13,6 @@
   </p>
   
 </section>
-</br>
 <section>
 
   <h1>
@@ -103,7 +102,6 @@
   </div>
 
 </section>
-</br>
 <section>
 
   <h1>🚀 Current pet project</h1>
@@ -155,7 +153,6 @@
   </a>
 
 </section>
-</br>
 <section>
 
   <h1>✨ My hobbies</h1>
@@ -206,7 +203,6 @@
 </section>
 
 
-</br>
 <section>
 
   <h1>📊 My Github Stats</h1>
